@@ -18,7 +18,7 @@ Visernic is a modern, responsive personal portfolio website built to showcase sk
 
 ## 📸 Preview
 
-![screenshot](link-to-screenshot.png)
+![screenshot](Coming-Soon-Visernic-Limited-04-17-2025_06_23_PM.png)
 
 ## 🧑‍💻 Author
 Created by [Mostafa Niloy](https://visernic.com)
